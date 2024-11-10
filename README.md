@@ -1,16 +1,14 @@
-## Hi there 👋
+# About me 👋
 
-<!--
-**Neal17889/Neal17889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on finding a Unity engineering position.
+- 🌱 I am currently learning Unity client development.
+
+- 🤔 I’m looking for help with career planning in the gaming industry.
+- 💬 Ask me about Unity client development.
+- 📫 How to reach me: neal17889@gmail.com or 2794985697@qq.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I enjoy playing mobile games.
+
